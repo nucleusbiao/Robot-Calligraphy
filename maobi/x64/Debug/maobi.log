@@ -1,0 +1,9 @@
+﻿  maobizishuxie.cpp
+d:\test\newtest\maobi\maobi\pixel.h(38): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\test\newtest\maobi\maobi\maobizishuxie.cpp(148): warning C4101: “minimum1”: 未引用的局部变量
+d:\test\newtest\maobi\maobi\maobizishuxie.cpp(148): warning C4101: “pointy1”: 未引用的局部变量
+d:\test\newtest\maobi\maobi\maobizishuxie.cpp(148): warning C4101: “minimum0”: 未引用的局部变量
+d:\test\newtest\maobi\maobi\maobizishuxie.cpp(148): warning C4101: “pointx0”: 未引用的局部变量
+d:\test\newtest\maobi\maobi\maobizishuxie.cpp(148): warning C4101: “pointy0”: 未引用的局部变量
+d:\test\newtest\maobi\maobi\maobizishuxie.cpp(148): warning C4101: “pointx1”: 未引用的局部变量
+  maobi.vcxproj -> D:\TEST\NEWTEST\maobi\x64\Debug\maobi.exe
